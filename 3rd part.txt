@@ -1,0 +1,12 @@
+CSS units involve values like margin, padding, length and font-sizes
+CSS sizes make the sizes of letters, units, larger or smaller.
+
+CSS gridsystem is a 2D layer that contains rows and columns.
+CSS flexbox is a table with a 2 dimensional table data.
+
+CSS animations lets you use animations without having to use JavaScript or C#
+CSS transitions specifies a transition that can have a slow start then fast.
+
+the @mediarule is used in media to apply different styles like browser support and creating
+backends.
+
