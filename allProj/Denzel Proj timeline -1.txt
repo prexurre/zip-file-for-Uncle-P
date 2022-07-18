@@ -1,0 +1,20 @@
+HtMl ELEMENT is a document component that are composed of simple text nodes and adds formatting 
+to parts of documents, it makes the text bold and organizes it to list and tables.
+
+HTML fORM is a document that has controls like passwords, usernames, menus and more. after entering
+it sends the data into a platform called a "server" for processing.
+
+
+HTML GRAPHICS can be used to design the webpage of your website like css.
+
+HTML Media can be used for adding videos, audios and animatons.
+
+
+ HTML API'S can be used to go in HTML files without accidentally changing the 
+javascript's code.
+
+--Hello Peter you are probaly currently reading this right now, i have made my own game and was
+wondering if you want to check it out, the game isnt anything special but it's donating in game items
+to others, also im creating a LocalPlayerEventScripts and created an anti-cheat in my game so if 
+any exploiters try to use their exploits.. the Anti-cheat instantly detects it and kicks them off 
+the game--
